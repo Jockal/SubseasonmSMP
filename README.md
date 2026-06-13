@@ -1,4 +1,5 @@
-# <img width="64" height="64" alt="server-icon" src="https://github.com/user-attachments/assets/c4c75d3a-c7e7-4e5c-8957-42078341b8c0" /> SubseasonMCP
+# <img width="64" height="64" alt="server-icon" src="https://github.com/user-attachments/assets/c4c75d3a-c7e7-4e5c-8957-42078341b8c0" /> SubseasonSMP
+
 
 ## Поддержка и благодарность.
 
